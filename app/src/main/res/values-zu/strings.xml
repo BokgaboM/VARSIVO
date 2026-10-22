@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_address">Ikheli le-imeyili</string>
+    <string name="password">Iphasiwedi</string>
+    <string name="log_in">Ngena</string>
+    <string name="register">Bhalisa</string>
+    <string name="continue_with_google">Qhubeka ne-Google</string>
+    <string name="i_am_a">Ngingu</string>
+    <string name="role_learner">Umfundi webanga le-11/12</string>
+    <string name="role_student">Umfundi wasemfundweni ephakeme</string>
+    <string name="language">Ulimi</string>
+    <string name="error_email_required">Faka ikheli lakho le-imeyili</string>
+    <string name="error_email_invalid">Faka ikheli le-imeyili elivumelekile</string>
+    <string name="error_password_required">Faka iphasiwedi yakho</string>
+    <string name="nav_home">Ikhaya</string>
+    <string name="nav_explore">Hlola</string>
+    <string name="nav_bursaries">Amabhasari</string>
+    <string name="nav_tracker">Landelela</string>
+    <string name="nav_profile">Iphrofayela</string>
+    <string name="welcome_back">Siyakwamukela futhi</string>
+    <string name="welcome_back_name">Siyakwamukela futhi, %1$s</string>
+    <string name="next_deadline">Isikhathi sokugcina esilandelayo:\nI-NSFAS ivala ezinsukwini ezi-3</string>
+    <string name="card_explorer">Umhloli Wemisebenzi Nezifundo</string>
+    <string name="card_bursaries">Isizindalwazi Samabhasari</string>
+    <string name="card_tracker">Umlandeli Wezicelo</string>
+    <string name="card_uniassist">Vula i-UniAssist</string>
+    <string name="uniassist_note">Abafundi basemanyuvesi abaqinisekisiwe kuphela\nI-UniAssist: ishejuli nokuhlela izivivinyo</string>
+    <string name="explore_search_hint">Sesha imisebenzi/izifundo</string>
+    <string name="aps_card_default">Isibali se-APS\nFaka izifundo namamaki\n[ Bala ]</string>
+    <string name="aps_card_result">I-APS yakho: %1$d\nThinta ukuze ubale futhi</string>
+    <string name="aps_title">Isibali se-APS</string>
+    <string name="subject_hint">Isifundo</string>
+    <string name="mark_hint">Amamaki (kwayi-100)</string>
+    <string name="btn_calculate">Bala</string>
+    <string name="btn_done">Kwenziwe</string>
+    <string name="aps_result">Amaphuzu akho e-APS: %1$d</string>
+    <string name="error_marks_range">Faka amamaki angu-0 kuya ku-100</string>
+    <string name="error_min_subjects">Faka amamaki ezifundo okungenani ezi-6</string>
+    <string name="status_qualify">Uyafaneleka</string>
+    <string name="status_need_more">Udinga amaphuzu e-APS angu-%1$d ngaphezulu</string>
+    <string name="status_unknown">Bala i-APS yakho ukuze uhlole</string>
+    <string name="career_title">Umsebenzi: %1$s</string>
+    <string name="career_line">Isidingo: %1$s | Umholo olinganiselwayo: %2$s</string>
+    <string name="demand_high">Siphezulu</string>
+    <string name="demand_medium">Siphakathi</string>
+    <string name="no_results">Ayikho imiphumela</string>
+    <string name="bursary_filter_field">Umkhakha wezifundo</string>
+    <string name="bursary_filter_province">Isifundazwe</string>
+    <string name="bursary_closes_today">Kuvala namuhla</string>
+    <string name="bursary_count">Amathuba okuxhaswa akhonjisiwe: %1$d</string>
+    <plurals name="bursary_closes_in">
+        <item quantity="one">Kuvalwa ngosuku olu-%1$d</item>
+        <item quantity="other">Kuvalwa ezinsukwini ezi-%1$d</item>
+    </plurals>
+    <string-array name="study_fields">
+        <item>Yonke imikhakha</item>
+        <item>Ubunjiniyela</item>
+        <item>Ezezimali</item>
+        <item>Imfundo</item>
+        <item>Ezempilo</item>
+        <item>I-IT</item>
+    </string-array>
+    <string-array name="provinces">
+        <item>Zonke izifundazwe</item>
+        <item>Eastern Cape</item>
+        <item>Free State</item>
+        <item>Gauteng</item>
+        <item>KwaZulu-Natal</item>
+        <item>Limpopo</item>
+        <item>Mpumalanga</item>
+        <item>Northern Cape</item>
+        <item>North West</item>
+        <item>Western Cape</item>
+    </string-array>
+    <string name="logo_description">Uphawu lwe-Varsivo</string>
+    <string name="tracker_title_card">Izicelo zakho</string>
+    <string name="tracker_add_card">+ Engeza isicelo\n(sisebenza ngaphandle kwe-inthanethi)</string>
+    <string name="tracker_status_line">Isimo: %1$s</string>
+    <string name="tracker_empty">Azikho izicelo okwamanje.\nThinta + Engeza isicelo ukuze uqale.</string>
+    <string name="tracker_add_title">Engeza isicelo</string>
+    <string name="tracker_edit_title">Hlela isicelo</string>
+    <string name="application_name_hint">Igama lesicelo (isb. UP - BSc IT)</string>
+    <string name="application_status_hint">Isimo</string>
+    <string name="btn_save">Londoloza</string>
+    <string name="btn_cancel">Khansela</string>
+    <string name="btn_delete">Susa</string>
+    <string name="error_name_required">Faka igama lalesi sicelo</string>
+    <string-array name="application_statuses">
+        <item>Kuyaqhubeka</item>
+        <item>Kuthunyelwe</item>
+        <item>Ukunikezwa kutholiwe</item>
+        <item>Akuphumelelanga</item>
+    </string-array>
+</resources>

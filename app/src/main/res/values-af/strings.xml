@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_address">E-posadres</string>
+    <string name="password">Wagwoord</string>
+    <string name="log_in">Meld aan</string>
+    <string name="register">Registreer</string>
+    <string name="continue_with_google">Gaan voort met Google</string>
+    <string name="i_am_a">Ek is \'n</string>
+    <string name="role_learner">Graad 11/12-leerder</string>
+    <string name="role_student">Tersiêre student</string>
+    <string name="language">Taal</string>
+    <string name="error_email_required">Voer jou e-posadres in</string>
+    <string name="error_email_invalid">Voer \'n geldige e-posadres in</string>
+    <string name="error_password_required">Voer jou wagwoord in</string>
+    <string name="nav_home">Tuis</string>
+    <string name="nav_explore">Verken</string>
+    <string name="nav_bursaries">Beurse</string>
+    <string name="nav_tracker">Opvolging</string>
+    <string name="nav_profile">Profiel</string>
+    <string name="welcome_back">Welkom terug</string>
+    <string name="welcome_back_name">Welkom terug, %1$s</string>
+    <string name="next_deadline">Volgende sperdatum:\nNSFAS sluit oor 3 dae</string>
+    <string name="card_explorer">Loopbaan- en kursusverkenner</string>
+    <string name="card_bursaries">Beursdatabasis</string>
+    <string name="card_tracker">Aansoekopvolger</string>
+    <string name="card_uniassist">Ontsluit UniAssist</string>
+    <string name="uniassist_note">Slegs geverifieerde tersi\u00eare studente\nUniAssist: rooster en eksamenbeplanner</string>
+    <string name="explore_search_hint">Soek loopbane/kursusse</string>
+    <string name="aps_card_default">APS-sakrekenaar\nVoer vakke en punte in\n[ Bereken ]</string>
+    <string name="aps_card_result">Jou APS: %1$d\nTik om weer te bereken</string>
+    <string name="aps_title">APS-sakrekenaar</string>
+    <string name="subject_hint">Vak</string>
+    <string name="mark_hint">Punt (uit 100)</string>
+    <string name="btn_calculate">Bereken</string>
+    <string name="btn_done">Klaar</string>
+    <string name="aps_result">Jou APS-telling: %1$d</string>
+    <string name="error_marks_range">Voer \'n punt van 0 tot 100 in</string>
+    <string name="error_min_subjects">Voer punte vir ten minste 6 vakke in</string>
+    <string name="status_qualify">Jy kwalifiseer</string>
+    <string name="status_need_more">Nog %1$d APS-punte nodig</string>
+    <string name="status_unknown">Bereken jou APS om te kyk</string>
+    <string name="career_title">Loopbaan: %1$s</string>
+    <string name="career_line">Vraag: %1$s | Geskatte salaris: %2$s</string>
+    <string name="demand_high">Hoog</string>
+    <string name="demand_medium">Medium</string>
+    <string name="no_results">Geen resultate gevind nie</string>
+    <string name="bursary_filter_field">Studieveld</string>
+    <string name="bursary_filter_province">Provinsie</string>
+    <string name="bursary_closes_today">Sluit vandag</string>
+    <string name="bursary_count">Befondsingsgeleenthede getoon: %1$d</string>
+    <plurals name="bursary_closes_in">
+        <item quantity="one">Sluit oor %1$d dag</item>
+        <item quantity="other">Sluit oor %1$d dae</item>
+    </plurals>
+    <string-array name="study_fields">
+        <item>Alle velde</item>
+        <item>Ingenieurswese</item>
+        <item>Finansies</item>
+        <item>Onderwys</item>
+        <item>Gesondheid</item>
+        <item>IT</item>
+    </string-array>
+    <string-array name="provinces">
+        <item>Alle provinsies</item>
+        <item>Oos-Kaap</item>
+        <item>Vrystaat</item>
+        <item>Gauteng</item>
+        <item>KwaZulu-Natal</item>
+        <item>Limpopo</item>
+        <item>Mpumalanga</item>
+        <item>Noord-Kaap</item>
+        <item>Noordwes</item>
+        <item>Wes-Kaap</item>
+    </string-array>
+    <string name="logo_description">Varsivo-logo</string>
+    <string name="tracker_title_card">Jou aansoeke</string>
+    <string name="tracker_add_card">+ Voeg aansoek by\n(werk vanlyn)</string>
+    <string name="tracker_status_line">Status: %1$s</string>
+    <string name="tracker_empty">Nog geen aansoeke nie.\nTik + Voeg aansoek by om te begin.</string>
+    <string name="tracker_add_title">Voeg aansoek by</string>
+    <string name="tracker_edit_title">Wysig aansoek</string>
+    <string name="application_name_hint">Aansoeknaam (bv. UP - BSc IT)</string>
+    <string name="application_status_hint">Status</string>
+    <string name="btn_save">Stoor</string>
+    <string name="btn_cancel">Kanselleer</string>
+    <string name="btn_delete">Skrap</string>
+    <string name="error_name_required">Voer \'n naam vir hierdie aansoek in</string>
+    <string-array name="application_statuses">
+        <item>Aan die gang</item>
+        <item>Ingedien</item>
+        <item>Aanbod ontvang</item>
+        <item>Onsuksesvol</item>
+    </string-array>
+</resources>

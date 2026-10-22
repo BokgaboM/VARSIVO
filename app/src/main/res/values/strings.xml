@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Varsivo</string>
+    <string name="logo_description">Varsivo logo</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="i_am_a">I am a</string>
+    <string name="role_learner">Grade 11/12 learner</string>
+    <string name="role_student">Tertiary student</string>
+    <string name="language">Language</string>
+    <string name="lang_en" translatable="false">EN</string>
+    <string name="lang_zu" translatable="false">isiZulu</string>
+    <string name="lang_af" translatable="false">Afrikaans</string>
+    <string name="error_email_required">Enter your email address</string>
+    <string name="error_email_invalid">Enter a valid email address</string>
+    <string name="error_password_required">Enter your password</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_bursaries">Bursaries</string>
+    <string name="nav_tracker">Tracker</string>
+    <string name="nav_profile">Profile</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="welcome_back_name">Welcome back, %1$s</string>
+    <string name="next_deadline">Next deadline:\nNSFAS closes in 3 days</string>
+    <string name="card_explorer">Career &amp; Course Explorer</string>
+    <string name="card_bursaries">Bursary Database</string>
+    <string name="card_tracker">Application Tracker</string>
+    <string name="card_uniassist">Unlock UniAssist</string>
+    <string name="uniassist_note">Verified tertiary students only\nUniAssist: timetable &amp; exam planner</string>
+    <string name="explore_search_hint">Search careers/courses</string>
+    <string name="aps_card_default">APS Calculator\nEnter subjects &amp; marks\n[ Calculate ]</string>
+    <string name="aps_card_result">Your APS: %1$d\nTap to recalculate</string>
+    <string name="aps_title">APS Calculator</string>
+    <string name="subject_hint">Subject</string>
+    <string name="mark_hint">Mark (out of 100)</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_done">Done</string>
+    <string name="aps_result">Your APS score: %1$d</string>
+    <string name="error_marks_range">Enter a mark from 0 to 100</string>
+    <string name="error_min_subjects">Enter marks for at least 6 subjects</string>
+    <string name="status_qualify">You qualify</string>
+    <string name="status_need_more">Need %1$d more APS points</string>
+    <string name="status_unknown">Calculate your APS to check</string>
+    <string name="career_title">Career: %1$s</string>
+    <string name="career_line">Demand: %1$s | Est. salary: %2$s</string>
+    <string name="demand_high">High</string>
+    <string name="demand_medium">Medium</string>
+    <string name="no_results">No results found</string>
+    <string name="bursary_filter_field">Field of study</string>
+    <string name="bursary_filter_province">Province</string>
+    <string name="bursary_closes_today">Closes today</string>
+    <string name="bursary_count">Funding opportunities shown: %1$d</string>
+    <plurals name="bursary_closes_in">
+        <item quantity="one">Closes in %1$d day</item>
+        <item quantity="other">Closes in %1$d days</item>
+    </plurals>
+    <string-array name="study_fields">
+        <item>All fields</item>
+        <item>Engineering</item>
+        <item>Finance</item>
+        <item>Education</item>
+        <item>Health</item>
+        <item>IT</item>
+    </string-array>
+    <string-array name="provinces">
+        <item>All provinces</item>
+        <item>Eastern Cape</item>
+        <item>Free State</item>
+        <item>Gauteng</item>
+        <item>KwaZulu-Natal</item>
+        <item>Limpopo</item>
+        <item>Mpumalanga</item>
+        <item>Northern Cape</item>
+        <item>North West</item>
+        <item>Western Cape</item>
+    </string-array>
+    <string name="tracker_title_card">Your Applications</string>
+    <string name="tracker_add_card">+ Add application\n(works offline)</string>
+    <string name="tracker_status_line">Status: %1$s</string>
+    <string name="tracker_empty">No applications yet.\nTap + Add application to start.</string>
+    <string name="tracker_add_title">Add application</string>
+    <string name="tracker_edit_title">Edit application</string>
+    <string name="application_name_hint">Application name (e.g. UP - BSc IT)</string>
+    <string name="application_status_hint">Status</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="error_name_required">Enter a name for this application</string>
+    <string-array name="application_statuses">
+        <item>In progress</item>
+        <item>Submitted</item>
+        <item>Offer received</item>
+        <item>Unsuccessful</item>
+    </string-array>
+</resources>
